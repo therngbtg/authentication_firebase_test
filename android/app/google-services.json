@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594274178934",
+    "project_id": "authen-firebase-app",
+    "storage_bucket": "authen-firebase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594274178934:android:12e6e27e4607060c228c57",
+        "android_client_info": {
+          "package_name": "com.example.authentication_firebase_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_sJN_UL6Hozq8H_0KMokRpVDE4xR_Y7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
